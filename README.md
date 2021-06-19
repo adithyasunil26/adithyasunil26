@@ -2,7 +2,7 @@
 <h3 align="center">Hello there! I'm Adithya. 👋 </h2>
 
 <p align="center">
-  I am a sophomore at IIIT-H pursuing my BTech in Electronics and Communication Engineering. 
+  I am a sophomore at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. 
 </p>
 
 <p align="center">
