@@ -1,8 +1,11 @@
 
-<h3 align="center">Hello there! I'm Adithya. 👋 </h2>
+<h3 align="center">Hello there! 👋 </h2>
 
-<p align="center">
-  I am a sophomore at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. 
+<p align="justify">
+  I'm a junior at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher at Centre for VLSI and Embedded Systems Technologies, IIIT-H and a GSoC student developer at Free and Open Source Silicon Foundation.
+  
+  Currently working on <a href="https://github.com/olofk/fusesoc">FuseSoC</a> integration of <a href="https://github.com/bespoke-silicon-group/basejump_stl">BaseJump STL</a> in 
+  <a href="https://github.com/adithyasunil26/basejump_stl_cores">basejump_stl_cores</a>.
 </p>
 
 <p align="center">
