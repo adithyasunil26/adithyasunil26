@@ -2,10 +2,10 @@
 <h3 align="center">Hello there! 👋 </h2>
 
 <p align="justify">
-  I'm a junior at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher at Centre for VLSI and Embedded Systems Technologies, IIIT-H and a GSoC student developer at Free and Open Source Silicon Foundation.
+  I'm a junior at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher at Centre for VLSI and Embedded Systems Technologies, IIIT-H. I was a Google Summer of Code 2021 student developer at the Free and Open Source Silicon Foundation.
   
   Currently working on <a href="https://github.com/olofk/fusesoc">FuseSoC</a> integration of <a href="https://github.com/bespoke-silicon-group/basejump_stl">BaseJump STL</a> in 
-  <a href="https://github.com/adithyasunil26/basejump_stl_cores">basejump_stl_cores</a>.
+  <a href="https://github.com/adithyasunil26/basejump_stl_cores">basejump_stl_cores</a> and <a href="https://github.com/The-OpenROAD-Project/OpenLane">OpenLane</a> flow for <a href="https://github.com/adithyasunil26/Y86-64-Processor">Y86-64-Processor</a>.
 </p>
 
 <p align="center">
