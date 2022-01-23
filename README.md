@@ -2,7 +2,7 @@
 <h3 align="center">Hello there! 👋 </h2>
 
 <p align="justify">
-  I'm a junior at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher at Centre for VLSI and Embedded Systems Technologies, IIIT-H. I was a Google Summer of Code 2021 student developer at the Free and Open Source Silicon Foundation.
+  I'm a junior at IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher working under the guidance of <a href="https://fac-webpages.iiit.ac.in/abhishek/">Dr. Abhishek Srivastava</a> in the IC~WiBES Research Lab (Integrated Circuits inspired by Wireless and Biomedical Electronic Systems) at the Centre for VLSI and Embedded System Technologies, IIIT-H. I was a Google Summer of Code 2021 student developer at the Free and Open Source Silicon Foundation.
   
   Currently working on <a href="https://github.com/olofk/fusesoc">FuseSoC</a> integration of <a href="https://github.com/bespoke-silicon-group/basejump_stl">BaseJump STL</a> in <a href="https://github.com/adithyasunil26/basejump_stl_cores">basejump_stl_cores</a>.
 </p>
