@@ -14,10 +14,10 @@
 </p>
 <p align="center">
   <a href="https://discord.com/users/619990807923130384" >
-    <img align="center" alt="Adithya's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    <img align="center" alt="Adithya's Discord" width="30px" src="https://raw.githubusercontent.com/adithyasunil26/adithyasunil26/main/Images/discord.svg" />
   </a>
   <a href="https://www.linkedin.com/in/adithyasunil26">
-    <img align="center" alt="Adithya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="center" alt="Adithya's LinkedIN" width="30px" src="https://raw.githubusercontent.com/adithyasunil26/adithyasunil26/main/Images/linkedin.svg" />
   </a>
 </p> 
   
